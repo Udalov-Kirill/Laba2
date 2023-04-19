@@ -6,13 +6,5 @@
         {
 
         }
-        static double Input_B()
-        {
-            Console.WriteLine("число В = ");
-
-            double number = Convert.ToDouble(Console.ReadLine());
-
-            return number;
-        }
     }
 }
