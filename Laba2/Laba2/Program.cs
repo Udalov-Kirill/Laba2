@@ -9,9 +9,9 @@
         static double Input_A()
         {
             Console.WriteLine("число А = ");
-            double number = Convert.ToDouble(Console.ReadLine());
+            double number_A = Convert.ToDouble(Console.ReadLine());
 
-            return number;
+            return number_A;
         }
     }
 }
