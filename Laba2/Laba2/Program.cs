@@ -6,9 +6,10 @@
         {
 
         }
-        static double Input_A()
+        static double Input_B()
         {
-            Console.WriteLine("число А = ");
+            Console.WriteLine("число В = ");
+
             double number = Convert.ToDouble(Console.ReadLine());
 
             return number;
