@@ -1,0 +1,15 @@
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.exe
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.deps.json
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.runtimeconfig.json
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.dll
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\bin\Debug\net6.0\Laba2.pdb
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.csproj.AssemblyReference.cache
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.AssemblyInfoInputs.cache
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.AssemblyInfo.cs
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.csproj.CoreCompileInputs.cache
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.dll
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\refint\Laba2.dll
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.pdb
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\Laba2.genruntimeconfig.cache
+D:\Удалов - C#\Git_Laba2\Laba2\Laba2\obj\Debug\net6.0\ref\Laba2.dll
