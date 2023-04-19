@@ -18,7 +18,12 @@
             double number_B = Convert.ToDouble(Console.ReadLine());
 
             return number_B;
-
+        }
+        static void Add(double number1, double number2)
+        {
+            double sum = 0;
+            sum = number1 + number2;
+            Console.WriteLine("Сумма чисел = " + sum);
         }
     }
 }
